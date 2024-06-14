@@ -1,0 +1,21 @@
+no hay teoria como tal la verdad , solo uso mi conocimiento de html y css de base 
+lo unico nuevo por asi deciro esta en fotos por asi decirlo y tambien puesto directamente 
+en el codigo , ya que el profe no se toma la molestia de hacer teoria, simplemente nos dice
+que leamos algunas partes del link que te voy a dejar junto a los numeros especificos,
+las fotos no te las dejo pq son fotos del codigo que ya hice asi que ni modo.
+
+https://drive.google.com/drive/folders/1f3q0FaWUHgelsLyvwPiycxKKtQbR7Q4C
+
+no se si te sirva de algo este link pero ahi dentro estan los libros que te dije que nos dejo
+pero te lo dejo a ti por si los necesitas
+
+https://es.javascript.info
+
+de aca sacamos toda la teoria necesaria para hacer los ejercicios
+apenas vimos un poco de cada capitulo , mas no los vimos completos
+
+2.15 , 2.16 , 2.5 , 4.1 , 5.4 , 6.8 , 1.1 hasta 1.8 , 2.1 , 4.1
+
+esos son los capitulos que use para hacer los codigos , no los lei completos , solo fui
+sacando de apoquito
+
