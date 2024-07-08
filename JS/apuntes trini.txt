@@ -11,11 +11,7 @@ pero te lo dejo a ti por si los necesitas
 
 https://es.javascript.info
 
-de aca sacamos toda la teoria necesaria para hacer los ejercicios
-apenas vimos un poco de cada capitulo , mas no los vimos completos
+tambien nos dejo cada capitulo aca
+https://github.com/santiagotrini/pruebadejavascript?tab=readme-ov-file
 
-2.15 , 2.16 , 2.5 , 4.1 , 5.4 , 6.8 , 1.1 hasta 1.8 , 2.1 , 4.1
-
-esos son los capitulos que use para hacer los codigos , no los lei completos , solo fui
-sacando de apoquito
-
+y los resumenes de cada capitulo estan el el word
